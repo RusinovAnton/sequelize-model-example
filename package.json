@@ -1,0 +1,17 @@
+{
+  "name": "sequelize-model-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "sequelize-cli": "^5.5.1"
+  },
+  "dependencies": {
+    "pg": "^7.12.1",
+    "sequelize": "^5.19.5"
+  }
+}
